@@ -1,0 +1,6 @@
+{
+  "name": "Agriculture Price Predictor",
+  "description": "Agriculture Market Price Prediction System with CSV upload, machine learning regression, historical analytics, and crop recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
