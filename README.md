@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-https://6a1dad1f2219fc4751956278--warm-malasada-fc3ce5.netlify.app/
+https://meet.google.com/xss-zahu-zei
 
 ## Run Locally
 
