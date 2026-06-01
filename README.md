@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-https://meet.google.com/xss-zahu-zei
+https://agripricepridictor.netlify.app/
 
 ## Run Locally
 
